@@ -17,7 +17,7 @@ permalink: /article/woh24woh24/
 
 从[Hackergame首页](https://hack.lug.ustc.edu.cn/)下拉，在承办单位处找到 [NEBULA战队](https://www.nebuu.la/)，进入题目说的招新主页
 
-这是一个Shell风格的网页，先打help看下可用命令，把~~sudo（奶龙😀）~~、`about`、`env`什么的先试一遍
+这是一个Shell风格的网页，先打`help`看下可用命令，把~~sudo（奶龙😀）~~、`about`、`env`什么的先试一遍
 
 执行`env`后发现一个flag
 
@@ -122,6 +122,7 @@ REQUIREMENTS=1. you must come from USTC; 2. you must be interested in security!
     可知1833
 
 `flag{A_900D_C@7_!s_The_©αT_wHo_©αN_p@$S_tHE_qบ1Z}`
+
 `flag{7en_Ye4RS_0F_hacK3ЯgΛme_OM3detou_WitH_n3kØ_QU!Z}`
 
 ## 打不开的盒
